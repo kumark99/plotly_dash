@@ -18,3 +18,9 @@
  	 python pydash.py
 ### To access  the application 
  	 http://localhost:8050 
+	
+### Youtube link 
+Complete instruction and supporting video on Youtube: https://youtu.be/b8Gzb3KS5Wk
+
+### Youtube Channel link
+https://www.youtube.com/channel/UCVyNVB6evazPGWWC83TeQxw
