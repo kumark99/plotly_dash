@@ -15,6 +15,6 @@
   	* plotly==5.4.0
 
 ### The following command to be used to execute the program:
- 	*python pydash.py
+ 	 python pydash.py
 ### To access  the application 
- 	* http://localhost:8050 
+ 	 http://localhost:8050 
